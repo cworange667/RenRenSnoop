@@ -1,0 +1,18 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="RenRenSnoop.Properties" GeneratedClassName="Settings">
+  <Profiles />
+  <Settings>
+    <Setting Name="AppKey" Type="System.String" Scope="User">
+      <Value Profile="(Default)">905ff5d1bcc345dea95749d15696e836</Value>
+    </Setting>
+    <Setting Name="AppSecrect" Type="System.String" Scope="User">
+      <Value Profile="(Default)">aa7c524199cc434c8ef063dbca0f7a6c</Value>
+    </Setting>
+    <Setting Name="CallbackUrl" Type="System.String" Scope="User">
+      <Value Profile="(Default)">http://graph.renren.com/oauth/login_success.html</Value>
+    </Setting>
+    <Setting Name="AcessToken" Type="System.String" Scope="User">
+      <Value Profile="(Default)" />
+    </Setting>
+  </Settings>
+</SettingsFile>
